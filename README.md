@@ -21,6 +21,7 @@
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" /></code>
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
+		<code><img height="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL icono" title="SQL" /></code>
 	<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" title="Postman" /></code>
 	<code><img height="50" src="https://viget.imgix.net/jest.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&s=882391e6854c3c621bcdc2df1c80c2e7" alt="Jest" title="Jest" /></code>
 	
