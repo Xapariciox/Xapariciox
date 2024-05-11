@@ -39,6 +39,10 @@
 ### :fire: My Stats :
 
 
+<section aling='left'>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xapariciox&layout=compact)](https://github.com/Xapariciox/github-readme-stats) 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xapariciox)](https://github.com/anuraghazra/github-readme-stats) -->
+  
+<section/>
 
