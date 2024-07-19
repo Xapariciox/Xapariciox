@@ -31,7 +31,7 @@
 - ⚡ Siempre buscando hacer código con buenas prácticas y mejorando constantemente, aprender nuevas tecnologías.
 
 
-- 🗺️ Idiomas: Español (lengua materna) e Inglés: B1 
+- 🗺️ Idiomas: Español (lengua materna) e Inglés: B2
 
 
 - 📫 Email: caracteres86@gmail.com 
